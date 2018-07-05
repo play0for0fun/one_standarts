@@ -38,4 +38,4 @@ cd bower_components/backstopjs
 npm install slimerjs
 
 npm run reference
-npm run test
+npm run test 
